@@ -2,4 +2,4 @@
 
 first change.
 
-second change conflict. 
+second change.
